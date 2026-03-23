@@ -62,7 +62,7 @@ Voting-Full_stack/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/blockchain-voting-system.git
+git clone https://github.com/imraghu-18/blockchain-voting-system.git
 cd blockchain-voting-system
 ```
 
@@ -160,3 +160,25 @@ Special thanks to our guide and institution for supporting this project.
 This project demonstrates how blockchain technology can transform the traditional voting system into a secure, transparent, and efficient digital solution, strengthening democratic processes.
 
 ---
+
+## 📊 System Diagrams
+
+### 🔹 Activity Diagram
+
+![Activity](diagrams/Activity diagram.png)
+
+### 🔹 Data Flow Diagram (DFD)
+
+![DFD](diagrams/DFD diagram.png)
+
+### 🔹 ER Diagram
+
+![ER](diagrams/ER diagram.png)
+
+### 🔹 Sequence Diagram
+
+![Sequence](diagrams/Sequence diagram.png)
+
+### 🔹 Use Case Diagram
+
+![UseCase](diagrams/Use case diagram.png)
