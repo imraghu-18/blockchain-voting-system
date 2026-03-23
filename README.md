@@ -165,20 +165,20 @@ This project demonstrates how blockchain technology can transform the traditiona
 
 ### 🔹 Activity Diagram
 
-![Activity](diagrams/Activity diagram.png)
+![Activity](diagrams/activity-diagram.png)
 
 ### 🔹 Data Flow Diagram (DFD)
 
-![DFD](diagrams/DFD diagram.png)
+![DFD](diagrams/dfd-diagram.png)
 
 ### 🔹 ER Diagram
 
-![ER](diagrams/ER diagram.png)
+![ER](diagrams/er-diagram.png)
 
 ### 🔹 Sequence Diagram
 
-![Sequence](diagrams/Sequence diagram.png)
+![Sequence](diagrams/sequence-diagram.png)
 
 ### 🔹 Use Case Diagram
 
-![UseCase](diagrams/Use case diagram.png)
+![UseCase](diagrams/usecase-diagram.png)
